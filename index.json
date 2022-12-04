@@ -1,11 +1,18 @@
 {
-    "latest": 1,
+    "latest": 2,
     "posts": [
         {
             "1": {
                 "title": "Coded my personal daily journal",
                 "date": "03/12/2022",
                 "display_date": "Dec 03, 2022"
+            }
+        },
+        {
+            "2": {
+                "title": "\ud83d\udcdd A Productive Day (or at least I tried) \ud83d\ude0a",
+                "date": "04/12/2022",
+                "display_date": "Dec 04, 2022"
             }
         }
     ]
