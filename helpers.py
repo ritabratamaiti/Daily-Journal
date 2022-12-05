@@ -65,7 +65,7 @@ def save_post(title, textHTML):
         json.dump(post_data, f, indent=4)
 
 title = "A Mixed Day: Reflecting on Distractions and Moving Forward with My Goals"
-textHTML = """<p>Today was a bit of a challenge as I wasn't able to work on my projects as much as I had hoped. I ended up getting distracted and occupied with other things, which really slowed down my productivity.</p>
+textHTML = """<p>Today was a bit of a challenge as I wasn't able to work on my projects as much as I had hoped. I ended up getting occupied with other things, which really slowed down my productivity.</p>
 <p>I am determined to improve my ability to avoid distractions and stay focused on my goals. While I made some progress in this area today, I know that I have a lot of work ahead of me. It can be frustrating at times, but I am committed to improving myself and achieving my goals.</p>
 <p>As for my gameplan for this week, I plan to add the articles I wrote for <a href="https://serenebase.com/">Serenebase</a> to the website and work on a marketing plan for <a href="https://viberooms.serenebase.com/">Viberooms</a>. I am also excited to continue working on my generative AI project and writing an article to gauge interest. Additionally, I will be starting two GPT-3 based apps, even though they may not be successful.</p>
 <p>Overall, it was a bit of a mixed day, but I am feeling optimistic and ready to tackle my projects this week. I am confident that with hard work and determination, I can make great progress and achieve my goals.</p>"""
