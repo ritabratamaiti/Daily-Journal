@@ -1,5 +1,5 @@
 {
-    "latest": 2,
+    "latest": 3,
     "posts": [
         {
             "1": {
@@ -13,6 +13,13 @@
                 "title": "\ud83d\udcdd A Productive Day (or at least I tried)",
                 "date": "04/12/2022",
                 "display_date": "Dec 04, 2022"
+            }
+        },
+        {
+            "3": {
+                "title": "A Mixed Day: Reflecting on Distractions and Moving Forward with My Goals",
+                "date": "05/12/2022",
+                "display_date": "Dec 05, 2022"
             }
         }
     ]
