@@ -64,11 +64,12 @@ def save_post(title, textHTML):
     with open(f"{latest}.json", "w") as f:
         json.dump(post_data, f, indent=4)
 
-title = "A Mixed Day: Reflecting on Distractions and Moving Forward with My Goals"
-textHTML = """<p>Today was a bit of a challenge as I wasn't able to work on my projects as much as I had hoped. I ended up getting occupied with other things, which really slowed down my productivity.</p>
-<p>I am determined to improve my ability to avoid distractions and stay focused on my goals. While I made some progress in this area today, I know that I have a lot of work ahead of me. It can be frustrating at times, but I am committed to improving myself and achieving my goals.</p>
-<p>As for my gameplan for this week, I plan to add the articles I wrote for <a href="https://serenebase.com/">Serenebase</a> to the website and work on a marketing plan for <a href="https://viberooms.serenebase.com/">Viberooms</a>. I am also excited to continue working on my generative AI project and writing an article to gauge interest. Additionally, I will be starting two GPT-3 based apps, even though they may not be successful.</p>
-<p>Overall, it was a bit of a mixed day, but I am feeling optimistic and ready to tackle my projects this week. I am confident that with hard work and determination, I can make great progress and achieve my goals.</p>"""
+title = "Some updates on Serenebase and my generative art project"
+textHTML = """<p>Today, I spent the day focused on further developing <a href="https://www.serenebase.com/">Serenebase</a>, my online platform for mental health resources. I added several new blogs to the site, providing even more information and support for those looking to improve their mental health.</p>
+<p>In addition, I came up with a comprehensive content marketing plan for <a href="https://viberooms.serenebase.com/">viberooms</a>, a new feature on Serenebase that allows users to connect with others in a virtual support group. I am excited to start implementing this plan and helping even more individuals find the support they need.</p>
+<p>I also made the decision to reach out to mental health startup founders this week to add their resources to the directory on Serenebase. I believe that by providing a wide range of options, we can help even more people find the support and tools they need to improve their mental health.</p>
+<p>Lastly, after a brief hiatus, I am excited to return to my generative art project. I am determined to continue working on this project and improving my overall productivity in order to make a positive impact on the mental health community.</p>
+<p>Overall, it was a productive and fulfilling day, and I am looking forward to continuing to grow and improve Serenebase in the coming days and weeks.</p>"""
 
 def remove_newlines(text):
     return text.replace("\r", "").replace("\n", "")

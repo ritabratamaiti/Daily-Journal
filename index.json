@@ -1,5 +1,5 @@
 {
-    "latest": 3,
+    "latest": 4,
     "posts": [
         {
             "1": {
@@ -20,6 +20,13 @@
                 "title": "A Mixed Day: Reflecting on Distractions and Moving Forward with My Goals",
                 "date": "06/12/2022",
                 "display_date": "Dec 06, 2022"
+            }
+        },
+        {
+            "4": {
+                "title": "Some updates on Serenebase and my generative art project",
+                "date": "07/12/2022",
+                "display_date": "Dec 07, 2022"
             }
         }
     ]
