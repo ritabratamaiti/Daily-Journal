@@ -1,5 +1,5 @@
 {
-    "latest": 4,
+    "latest": 5,
     "posts": [
         {
             "1": {
@@ -27,6 +27,13 @@
                 "title": "Some updates on Serenebase and my generative art project",
                 "date": "07/12/2022",
                 "display_date": "Dec 07, 2022"
+            }
+        },
+        {
+            "5": {
+                "title": "7th December 2022",
+                "date": "08/12/2022",
+                "display_date": "Dec 08, 2022"
             }
         }
     ]
