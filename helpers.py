@@ -64,8 +64,8 @@ def save_post(title, textHTML):
     with open(f"{latest}.json", "w") as f:
         json.dump(post_data, f, indent=4)
 
-title = "7th December 2022"
-textHTML = """<p>Did not achieve much today, but did come up with a plan to market Viberooms</p>"""
+title = "8th December 2022"
+textHTML = """<p>Not much progress on the side hustle front :(</p>"""
 
 def remove_newlines(text):
     return text.replace("\r", "").replace("\n", "")
